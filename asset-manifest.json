@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hexagon-/static/css/main.02925a2e.css",
+    "main.js": "/Hexagon-/static/js/main.9b5ce30d.js",
+    "index.html": "/Hexagon-/index.html",
+    "main.02925a2e.css.map": "/Hexagon-/static/css/main.02925a2e.css.map",
+    "main.9b5ce30d.js.map": "/Hexagon-/static/js/main.9b5ce30d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02925a2e.css",
+    "static/js/main.9b5ce30d.js"
+  ]
+}
